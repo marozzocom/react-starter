@@ -1,2 +1,2 @@
 # About
-Basic React starter project.
+Basic React with TypeScript starter project.
